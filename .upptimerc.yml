@@ -14,7 +14,7 @@ status-website:
   cname: status.serverarmour.com
   #baseUrl: /
   logoUrl: https://io.serverarmour.com/assets/images/logo.png
-  name: Server Armour Status
+  name: Server Armour
   introTitle: 
   introMessage: 
   navbar:
