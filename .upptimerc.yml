@@ -18,10 +18,10 @@ status-website:
   introTitle: 
   introMessage: 
   navbar:
+    - title: Home
+      href: https://io.serverarmour.com
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
