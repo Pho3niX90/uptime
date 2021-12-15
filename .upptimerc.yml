@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.serverarmour.com
-  # baseUrl: /your-repo-name
+  baseUrl: /uptime
   logoUrl: https://io.serverarmour.com/assets/images/logo.png
   name: Server Armour Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
