@@ -4,7 +4,7 @@
     "url": "https://io.serverarmour.com",
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "server-armour-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 6674,
     "timeMonth": 6674,
     "timeYear": 6674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "ServerArmour - Backend",
