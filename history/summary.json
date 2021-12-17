@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "server-armour-frontend",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 5995,
-    "timeDay": 5995,
-    "timeWeek": 5995,
-    "timeMonth": 5995,
-    "timeYear": 5995,
-    "dailyMinutesDown": {
-      "2021-12-16": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5710,
+    "timeDay": 1212,
+    "timeWeek": 5710,
+    "timeMonth": 5710,
+    "timeYear": 5710,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ServerArmour - Backend",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2064,
-    "timeDay": 2064,
-    "timeWeek": 2064,
-    "timeMonth": 2064,
-    "timeYear": 2064,
+    "time": 1929,
+    "timeDay": 39,
+    "timeWeek": 1929,
+    "timeMonth": 1929,
+    "timeYear": 1929,
     "dailyMinutesDown": {}
   }
 ]
