@@ -4,19 +4,19 @@
     "url": "https://io.serverarmour.com",
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "website",
-    "status": "degraded",
-    "uptime": "96.26%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "96.26%",
-    "uptimeMonth": "96.26%",
-    "uptimeYear": "96.26%",
-    "time": 1996,
-    "timeDay": 2058,
-    "timeWeek": 1996,
-    "timeMonth": 1996,
-    "timeYear": 1996,
+    "status": "up",
+    "uptime": "95.40%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "95.40%",
+    "time": 1973,
+    "timeDay": 2031,
+    "timeWeek": 1973,
+    "timeMonth": 1973,
+    "timeYear": 1973,
     "dailyMinutesDown": {
-      "2022-04-15": 60
+      "2022-04-15": 74
     }
   },
   {
