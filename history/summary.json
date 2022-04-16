@@ -4,14 +4,14 @@
     "url": "https://io.serverarmour.com",
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "website",
-    "status": "up",
-    "uptime": "95.13%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "95.13%",
-    "uptimeYear": "95.13%",
+    "status": "down",
+    "uptime": "95.16%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "95.16%",
+    "uptimeYear": "95.16%",
     "time": 2007,
-    "timeDay": 2002,
+    "timeDay": 1968,
     "timeWeek": 2007,
     "timeMonth": 2007,
     "timeYear": 2007,
@@ -25,19 +25,19 @@
     "url": "https://io.serverarmour.com/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "api",
-    "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "95.65%",
-    "uptimeYear": "95.65%",
+    "status": "down",
+    "uptime": "96.14%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
     "time": 57,
     "timeDay": 59,
     "timeWeek": 57,
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2022-04-16": 124
+      "2022-04-16": 111
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://io.serverarmour.com/api/v1/ping/db",
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "db",
-    "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "95.65%",
-    "uptimeYear": "95.65%",
+    "status": "down",
+    "uptime": "96.14%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
     "time": 69,
     "timeDay": 73,
     "timeWeek": 69,
     "timeMonth": 69,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2022-04-16": 124
+      "2022-04-16": 111
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "redis",
     "status": "down",
-    "uptime": "96.77%",
-    "uptimeDay": "93.61%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "96.77%",
-    "time": 53,
-    "timeDay": 40,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "uptime": "97.25%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
+    "time": 58,
+    "timeDay": 51,
+    "timeWeek": 58,
+    "timeMonth": 58,
+    "timeYear": 58,
     "dailyMinutesDown": {
-      "2022-04-16": 92
+      "2022-04-16": 79
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://io.serverarmour.com/api/v1/ping/notifications",
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "discord-notifications",
-    "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "91.40%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "95.65%",
-    "uptimeYear": "95.65%",
+    "status": "down",
+    "uptime": "96.14%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
     "time": 65,
     "timeDay": 67,
     "timeWeek": 65,
     "timeMonth": 65,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2022-04-16": 124
+      "2022-04-16": 111
     }
   }
 ]
