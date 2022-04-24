@@ -1,7 +1,7 @@
 url: https://io.serverarmour.com
-status: degraded
+status: up
 code: 200
-responseTime: 3123
-lastUpdated: 2022-04-24T14:00:11.137Z
+responseTime: 2294
+lastUpdated: 2022-04-24T14:07:35.703Z
 startTime: Thu Apr 14 2022 09:35:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
