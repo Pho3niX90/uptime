@@ -1,7 +1,7 @@
 url: https://io.serverarmour.com/api/v1/ping
-status: up
+status: degraded
 code: 200
-responseTime: 77
-lastUpdated: 2022-04-30T23:04:07.780Z
+responseTime: 163
+lastUpdated: 2022-05-01T22:55:13.138Z
 startTime: Thu Apr 14 2022 09:35:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
