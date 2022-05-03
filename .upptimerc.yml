@@ -5,16 +5,16 @@ repo: uptime # The name of this repository
 sites:
   - name: Website
     url: https://io.serverarmour.com
-    maxResponseTime: 2500
+    maxResponseTime: 5000
   - name: API
     url: https://io.serverarmour.com/api/v1/ping
-    maxResponseTime: 100
+    maxResponseTime: 150
   - name: DB
     url: https://io.serverarmour.com/api/v1/ping/db
     maxResponseTime: 1500
   - name: REDIS
     url: https://io.serverarmour.com/api/v1/ping/redis
-    maxResponseTime: 100
+    maxResponseTime: 150
   - name: Discord Notifications
     url: https://io.serverarmour.com/api/v1/ping/notifications
     maxResponseTime: 1000
