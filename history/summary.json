@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/io.serverarmour.com",
     "slug": "website",
     "status": "up",
-    "uptime": "91.51%",
+    "uptime": "91.52%",
     "uptimeDay": "72.29%",
-    "uptimeWeek": "80.52%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "91.51%",
-    "time": 3635,
-    "timeDay": 4101,
-    "timeWeek": 3916,
-    "timeMonth": 3635,
-    "timeYear": 3635,
+    "uptimeWeek": "80.74%",
+    "uptimeMonth": "91.52%",
+    "uptimeYear": "91.52%",
+    "time": 3632,
+    "timeDay": 4081,
+    "timeWeek": 3910,
+    "timeMonth": 3632,
+    "timeYear": 3632,
     "dailyMinutesDown": {
       "2022-05-03": 346,
       "2022-05-02": 387,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 60,
-    "timeDay": 97,
-    "timeWeek": 76,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "time": 59,
+    "timeDay": 76,
+    "timeWeek": 71,
+    "timeMonth": 59,
+    "timeYear": 59,
     "dailyMinutesDown": {
       "2022-04-16": 111
     }
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 58,
-    "timeDay": 80,
-    "timeWeek": 65,
-    "timeMonth": 58,
-    "timeYear": 58,
+    "time": 57,
+    "timeDay": 47,
+    "timeWeek": 59,
+    "timeMonth": 57,
+    "timeYear": 57,
     "dailyMinutesDown": {
       "2022-04-16": 111
     }
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
-    "time": 60,
-    "timeDay": 84,
-    "timeWeek": 72,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "time": 59,
+    "timeDay": 55,
+    "timeWeek": 69,
+    "timeMonth": 59,
+    "timeYear": 59,
     "dailyMinutesDown": {
       "2022-04-16": 79
     }
@@ -98,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 57,
-    "timeDay": 93,
-    "timeWeek": 66,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "time": 55,
+    "timeDay": 53,
+    "timeWeek": 60,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {
       "2022-04-16": 111
     }
