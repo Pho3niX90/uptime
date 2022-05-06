@@ -1,7 +1,7 @@
 url: https://io.serverarmour.com/api/v1/ping
-status: down
-code: 503
-responseTime: 108
-lastUpdated: 2022-05-06T19:35:20.451Z
+status: up
+code: 200
+responseTime: 42
+lastUpdated: 2022-05-06T19:41:04.557Z
 startTime: Thu Apr 14 2022 09:35:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
