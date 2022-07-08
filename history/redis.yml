@@ -1,7 +1,7 @@
 url: https://io.serverarmour.com/api/v1/ping/redis
 status: up
 code: 200
-responseTime: 132
-lastUpdated: 2022-07-08T01:27:10.703Z
+responseTime: 92
+lastUpdated: 2022-07-08T23:04:07.501Z
 startTime: Thu Apr 14 2022 09:36:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
