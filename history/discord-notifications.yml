@@ -1,7 +1,7 @@
 url: https://io.serverarmour.com/api/v1/ping/notifications
-status: down
-code: 404
-responseTime: 39
-lastUpdated: 2022-07-10T11:45:26.883Z
+status: up
+code: 200
+responseTime: 90
+lastUpdated: 2022-07-10T11:49:35.030Z
 startTime: Thu Apr 14 2022 09:36:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
